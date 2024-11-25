@@ -1,0 +1,14 @@
+django
+gunicorn
+psycopg2-binary
+python-decouple
+whitenoise
+djangorestframework
+djangorestframework-simplejwt
+django-allauth
+django-debug-toolbar
+django-compressor
+pillow
+celery
+redis
+django-heroku
